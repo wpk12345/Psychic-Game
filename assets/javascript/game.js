@@ -49,7 +49,7 @@ will subtract a guess */
     
     // Creating a variable to hold our new HTML. Our HTML now keeps track of the user and computer guesses, and wins/losses/ties.
     var html =
-        "<h1>Psychic Game" + "</h1>" +
+        "<h1>Psychic Game" + "</h1>" + 
         "<p>Press any letter" + "</p>" +
         "<p>You chose: " + guessList + "</p>" +
         "<p>Wins: " + wins + "</p>" +
